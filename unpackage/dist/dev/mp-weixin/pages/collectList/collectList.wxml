@@ -1,0 +1,1 @@
+<view class="main data-v-3eb21341"><scroll-view class="main_box data-v-3eb21341" scroll-y="true" data-event-opts="{{[['scrolltolower',[['lower',['$event']]]]]}}" bindscrolltolower="__e"><water-full vue-id="63b838ae-1" data-ref="waterFull" class="data-v-3eb21341 vue-ref" bind:__l="__l"></water-full></scroll-view></view>

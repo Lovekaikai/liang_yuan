@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "water-full": "/components/WaterFull",
+    "uni-swiper-dot": "/components/uni-swiper-dot/uni-swiper-dot",
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
+  },
+  "component": true
+}

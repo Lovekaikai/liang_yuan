@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "自定义tabbar",
+  "enablePullDownRefresh": true,
+  "bounce": "none",
+  "usingComponents": {
+    "tab-game": "/components/tabBar/game",
+    "tab-information": "/components/tabBar/information",
+    "tab-data": "/components/tabBar/Data",
+    "tab-mycenter": "/components/tabBar/mycenter"
+  }
+}
